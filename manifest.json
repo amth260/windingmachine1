@@ -1,9 +1,5 @@
 {
   "version": "1.0.1",
-  "fw": {
-    "source": "https://api.github.com/repos/amth260/windingmachine/releases/assets/350486898",
-    "nonce": "5599433d8e8a6239e7c5dd90637a9de3",
-    "size": 1374304,
-    "sha256": "ddcfddd321ff66523370e8210523b639b4763c17862f53772047e49dbddecae5"
-  }
+  "mf_nonce": "ed32772799cfcc3d5d73658d3a6fa610",
+  "fw_enc": "RRrXUfu3k7Yf41z9vUJEGS27MQQD53r5H5dsyexgXufcDLHHxBgongq/waFeJpPl48EsR+HDA2vsbBSSNQY3RZreiZY7XzrYsrCb7D19dP6z3/aCw4XMB49m1gaJ0Ho8g4nlpj035uqRsvSe76qPH0d1Z5jwbmaEkCY2SI6dHYzetdhCmULaObMPIPF+Z+lnQqrC2oVb0u0jb7xfJ8BdUNu1oaacMUdOP27nn07fKzM6eRevb+QEArV0hH3SUOepE2GQk5308tf//AZ/SC7Jkiy0mFz+83RObZ1sM1UXklc="
 }
