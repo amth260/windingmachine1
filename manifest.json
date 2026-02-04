@@ -2,8 +2,8 @@
   "version": "1.0.1",
   "fw": {
     "source": "https://api.github.com/repos/amth260/windingmachine/releases/assets/349626800",
-    "nonce": "9f3a7c1e5d8b4a209c6f1d3e7b2a90f4",
-    "size": 1580736,
-    "sha256": "673c2ca94884b1a679fe34156950d499a7206a726e8ddb5bfde71f78613b954d"
+    "nonce": "5599433d8e8a6239e7c5dd90637a9de3",
+    "size": 1374304,
+    "sha256": "ddcfddd321ff66523370e8210523b639b4763c17862f53772047e49dbddecae5"
   }
 }
