@@ -1,7 +1,8 @@
 {
   "version": "1.0.1",
   "fw": {
-    "file": "dualCore_41_b_08_simpleWM_OTAserver.ino.bin.enc",
+    "source": "https://api.github.com/repos/amth260/windingmachine/releases/assets/349626800",
+    "nonce": "9f3a7c1e5d8b4a209c6f1d3e7b2a90f4",
     "size": 1580736,
     "sha256": "673c2ca94884b1a679fe34156950d499a7206a726e8ddb5bfde71f78613b954d"
   }
